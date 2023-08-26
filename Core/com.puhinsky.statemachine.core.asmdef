@@ -1,6 +1,6 @@
 {
     "name": "com.puhinsky.statemachine.core",
-    "rootNamespace": "Puhinsky.StateMachine",
+    "rootNamespace": "Puhinsky.GenericStateMachine.Core",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

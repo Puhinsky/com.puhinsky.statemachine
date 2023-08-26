@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Puhinsky.StateMachine
+namespace Puhinsky.GenericStateMachine.Core
 {
     public class StateMachine<TInitializer>
     {
